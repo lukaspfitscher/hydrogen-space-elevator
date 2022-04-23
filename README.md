@@ -38,5 +38,8 @@ dry air has a density of about 1.29 kg/m3
 hydrogen density 0.08375 kg/m3
 uplift is than = 1.2kg/m3
 
+for the robe (390kg) and a human (60kg) and a elevator (100kg) you would than need (550kg, 550/1.2 = 460m3)
+that would be a cube of site length of square3(460m3), 8m
+
 
 Windforces
