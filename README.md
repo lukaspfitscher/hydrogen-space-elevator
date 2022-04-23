@@ -22,3 +22,21 @@ list of weigth to carry by the hydrogen balloons
 
 The elevator will be driven by solarpanels attached to the elevator. Or by a high voltage current source. 
 so to make a elavator for one person.
+
+
+
+calculations:
+[link](https://www.amazon.com/Flagline-Resistant-Excellent-Absorption-Thickness/dp/B01N0WZ79Y/ref=sr_1_3?keywords=heavy%2Bduty%2Bnylon%2Brope&qid=1650723477&sr=8-3&th=1)
+Amount of hydrogen needed
+
+Robe: Tensil strengh 1000kg, 0.0128kg/m (lengh 25m, 0.32kg): 
+Weight of the inner robe = 0.0128kg/m * 30000m = 384kg
+
+Sphere surface formula: A=4πr^2
+Sphere volume  formula: A=4/3*πr^3
+dry air has a density of about 1.29 kg/m3
+hydrogen density 0.08375 kg/m3
+uplift is than = 1.2kg/m3
+
+
+Windforces
