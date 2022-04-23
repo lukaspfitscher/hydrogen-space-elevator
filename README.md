@@ -41,5 +41,20 @@ uplift is than = 1.2kg/m3
 for the robe (390kg) and a human (60kg) and a elevator (100kg) you would than need (550kg, 550/1.2 = 460m3)
 that would be a cube of site length of square3(460m3), 8m
 
+price hydrogen: 3.4€ per m^3 (460m3 would than be 2000euro, it is not much!)
 
 Windforces
+
+slow Hydrogen Permeation
+https://www.yokogawa.com/us/library/resources/application-notes/hydrogen-permeation/
+
+diffusion of Hydrogen through Aluminium
+https://www.jstor.org/stable/96543?seq=1
+
+best material for hydrogen balloon
+https://www.quora.com/Whats-the-best-material-for-hydrogen-balloon-for-around-400-meters-high
+
+
+
+
+a ballone in a balloon for hydrogen. will this decrease diffusion?
