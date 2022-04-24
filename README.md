@@ -57,4 +57,4 @@ https://www.quora.com/Whats-the-best-material-for-hydrogen-balloon-for-around-40
 
 
 
-a ballone in a balloon for hydrogen. will this decrease diffusion?
+A ballone in a balloon for hydrogen. will this decrease diffusion?
