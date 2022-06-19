@@ -32,11 +32,11 @@ Amount of hydrogen needed
 Robe: Tensil strengh 1000kg, 0.0128kg/m (lengh 25m, 0.32kg): 
 Weight of the inner robe = 0.0128kg/m * 30000m = 384kg
 
-Sphere surface formula: A=4πr^2
-Sphere volume  formula: A=4/3*πr^3
-dry air has a density of about 1.29 kg/m3
-hydrogen density 0.08375 kg/m3
-uplift is than = 1.2kg/m3
+Sphere surface formula: A=4πr^2 <br/>
+Sphere volume  formula: A=4/3*πr^3 <br/>
+dry air has a density of about 1.29 kg/m3 <br/>
+hydrogen density 0.08375 kg/m3 <br/>
+uplift is than = 1.2kg/m3 <br/>
 
 for the robe (390kg) and a human (60kg) and a elevator (100kg) you would than need (550kg, 550/1.2 = 460m3)
 that would be a cube of site length of square3(460m3), 8m
