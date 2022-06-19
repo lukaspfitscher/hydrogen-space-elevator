@@ -57,4 +57,4 @@ https://www.quora.com/Whats-the-best-material-for-hydrogen-balloon-for-around-40
 
 
 
-A ballone in a balloon for hydrogen. will this decrease diffusion?
+A ballone in a balloon for hydrogen, first balloon filled with normal air, so no preasure will be on hydrogen and therefor no leaking trough the walls will ocure. will this decrease diffusion?
