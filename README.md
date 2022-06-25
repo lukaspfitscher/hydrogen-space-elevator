@@ -24,6 +24,8 @@ The elevator will be driven by solarpanels attached to the elevator. Or by a hig
 so to make a elavator for one person.
 
 
+simplest way to make hydrogen: https://www.youtube.com/watch?v=39iYqEi-pbQ&lc=UgzMkusVHParnkXmxth4AaABAg.9_BjHAscSrs9ch_QfNT5gj
+
 
 calculations:
 [link](https://www.amazon.com/Flagline-Resistant-Excellent-Absorption-Thickness/dp/B01N0WZ79Y/ref=sr_1_3?keywords=heavy%2Bduty%2Bnylon%2Brope&qid=1650723477&sr=8-3&th=1)
