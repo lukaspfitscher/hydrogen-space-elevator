@@ -56,7 +56,8 @@ https://www.jstor.org/stable/96543?seq=1
 best material for hydrogen balloon
 https://www.quora.com/Whats-the-best-material-for-hydrogen-balloon-for-around-400-meters-high
 
-
+Metal hydrides are very effective at storing large amounts of hydrogen in a safe and compact way.
+Examples of Metal hydrides: MgH2, NaAlH4, LiAlH4, LiH, LaNi5H6, TiFeH2, ammonia borane, and palladium hydride.
 
 
 A ballone in a balloon for hydrogen, first balloon filled with normal air, so no preasure will be on hydrogen and therefor no leaking trough the walls will ocure. will this decrease diffusion?
