@@ -61,3 +61,13 @@ Examples of Metal hydrides: MgH2, NaAlH4, LiAlH4, LiH, LaNi5H6, TiFeH2, ammonia 
 
 
 A ballone in a balloon for hydrogen, first balloon filled with normal air, so no preasure will be on hydrogen and therefor no leaking trough the walls will ocure. will this decrease diffusion?
+
+
+H2		 2 g/mol
+He		 4 g/mol
+CH4		16 g/mol
+N2		28 g/mol
+CO		28 g/mol
+CO2		44 g/mol
+O2		32 g/mol
+Ar		40 g/mol
