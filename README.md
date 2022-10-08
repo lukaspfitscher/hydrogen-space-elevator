@@ -74,4 +74,11 @@ O2  32 g/mol
 Ar  40 g/mol  
 ```
 
+Amount of CH4 needed fot lifting 1kg:
+1.29 - 1.29 /28*16 = 0.5528
+
+
+
+
+
 windforces
