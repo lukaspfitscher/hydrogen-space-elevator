@@ -20,7 +20,7 @@ list of weigth to carry by the hydrogen balloons
 - cargo (human or robot) 
 - motor for elevating
 
-The elevator will be driven by solarpanels attached to the elevator. Or by a high voltage current source. 
+The elevator will be driven by solarpanels attached to the elevator or by a high voltage current source. 
 so to make a elavator for one person.
 
 
@@ -29,14 +29,14 @@ simplest way to make hydrogen: https://www.youtube.com/watch?v=39iYqEi-pbQ&lc=Ug
 
 calculations:
 [link](https://www.amazon.com/Flagline-Resistant-Excellent-Absorption-Thickness/dp/B01N0WZ79Y/ref=sr_1_3?keywords=heavy%2Bduty%2Bnylon%2Brope&qid=1650723477&sr=8-3&th=1)
-Amount of hydrogen needed
+amount of hydrogen needed
 
-Robe: Tensil strengh 1000kg, 0.0128kg/m (lengh 25m, 0.32kg): 
-Weight of the inner robe = 0.0128kg/m * 30000m = 384kg
+robe: tensil strengh: 1000kg, 0.0128kg/m (lengh 25m, 0.32kg): 
+weight of the inner robe: 0.0128kg/m * 30000m = 384kg
 
 ```
-Sphere surface formula: A=4πr^2
-Sphere volume  formula: A=4/3*πr^3
+sphere surface formula: A=4πr^2
+sphere volume  formula: A=4/3*πr^3
 dry air has a density of about 1.29 kg/m3
 hydrogen density 0.08375 kg/m3
 uplift is than = 1.2kg/m3
@@ -47,7 +47,7 @@ that would be a cube of site length of square3(460m3), 8m
 
 price hydrogen: 3.4€ per m^3 (460m3 would than be 2000euro, it is not much!)
 
-Windforces
+
 
 slow Hydrogen Permeation
 https://www.yokogawa.com/us/library/resources/application-notes/hydrogen-permeation/
@@ -61,7 +61,6 @@ https://www.quora.com/Whats-the-best-material-for-hydrogen-balloon-for-around-40
 Metal hydrides are very effective at storing large amounts of hydrogen in a safe and compact way.
 Examples of Metal hydrides: MgH2, NaAlH4, LiAlH4, LiH, LaNi5H6, TiFeH2, ammonia borane, and palladium hydride.
 
-
 A ballone in a balloon for hydrogen, first balloon filled with normal air, so no preasure will be on hydrogen and therefor no leaking trough the walls will ocure. will this decrease diffusion?
 
 ```
@@ -74,3 +73,5 @@ CO2 44 g/mol
 O2  32 g/mol  
 Ar  40 g/mol  
 ```
+
+windforces
